@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain-ollama
+pytesseract
+pillow
+gradio
