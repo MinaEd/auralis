@@ -5,3 +5,7 @@ pytesseract
 pillow
 gradio
 mcp
+langchain_google_genai
+os
+matplotlib
+IPython
