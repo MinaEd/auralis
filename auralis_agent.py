@@ -2,6 +2,7 @@ from langgraph.graph import StateGraph
 from typing import TypedDict
 from tools.ocr_tool import ocr_tool
 from tools.insight_tool import summarize_text
+from IPython.display import Image,display
 
 class AuralisState(TypedDict):
     input_type: str  
